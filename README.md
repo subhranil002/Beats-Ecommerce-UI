@@ -26,3 +26,5 @@ To Start Contributing ...
 ## License
 
 [MIT](https://github.com/subhranil002/Beats-Ecommerce-UI?tab=MIT-1-ov-file)
+<br/><br/><br/>
+<p align="center">Made With ❤️</p>
